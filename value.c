@@ -1,4 +1,7 @@
-/* To Do: value.c ¼Ò½º ÆÄÀÏÀ» ¸¸µé°í, »õ·Î ¸¸µç ÆÄÀÏ¿¡¼­ value ÇÔ¼ö¸¦ Á¤ÀÇÇØº¸¼¼¿ä */
-
+/* To Do: value.c ì†ŒìŠ¤ íŒŒì¼ì„ ë§Œë“¤ê³ , ìƒˆë¡œ ë§Œë“  íŒŒì¼ì—ì„œ value í•¨ìˆ˜ë¥¼ ì •ì˜í•´ë³´ì„¸ìš” */
 
 int value(int);
+
+int value(int x) {
+	return x;
+}
